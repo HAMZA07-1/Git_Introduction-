@@ -1,3 +1,4 @@
 GitHub Workshop
 
-Hey My name is Hamza Sulehria. Im a computer engineering student taking ECE425. 
+Hey, My name is Hamza Sulehria. 
+ECE 425
